@@ -1,0 +1,166 @@
+{
+ "stand": "2026-10-23",
+ "termine": [
+  {
+   "d": "2026-09-20",
+   "t": "18:20",
+   "s": "SWR Kultur",
+   "p": "Hörspiel",
+   "ti": "When the music's over (Teil 1 von 2)",
+   "a": "Myra Çakan",
+   "w": true,
+   "u": "https://www.ardsounds.de/episode/urn:ard:episode:6b0997b0c44c7c3e/",
+   "o": true,
+   "ou": "https://www.ardsounds.de/episode/urn:ard:episode:6b0997b0c44c7c3e/",
+   "g": "wtmo"
+  },
+  {
+   "d": "2026-10-04",
+   "t": "18:20",
+   "s": "SWR Kultur",
+   "p": "Hörspiel",
+   "ti": "When the music's over (Teil 2 von 2)",
+   "a": "Myra Çakan",
+   "w": true,
+   "u": "https://www.ardsounds.de/episode/urn:ard:episode:29f9765b6da64aad/",
+   "o": true,
+   "ou": "https://www.ardsounds.de/episode/urn:ard:episode:29f9765b6da64aad/",
+   "g": "wtmo"
+  },
+  {
+   "d": "2026-10-05",
+   "t": "22:05",
+   "s": "Deutschlandfunk Kultur",
+   "p": "Krimi-Hörspiel",
+   "ti": "Primetime – Verdeckte Ermittlung in der Sendeanstalt",
+   "a": "Oliver Bukowski",
+   "w": true,
+   "u": "https://www.hoerspielundfeature.de/krimi-hoerspiel-primetime-verdeckte-ermittlung-in-der-sendeanstalt-100.html",
+   "o": true,
+   "g": "bukowski"
+  },
+  {
+   "d": "2026-10-12",
+   "t": "22:05",
+   "s": "Deutschlandfunk Kultur",
+   "p": "Krimi-Hörspiel",
+   "ti": "Snaps – Mord in der Kommune",
+   "a": "Oliver Bukowski",
+   "w": true,
+   "u": "https://www.hoerspielundfeature.de/snaps-mord-in-der-kommune-100.html",
+   "o": true,
+   "g": "bukowski"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "22:05",
+   "s": "Deutschlandfunk Kultur",
+   "p": "Krimi-Hörspiel",
+   "ti": "Schwenkfutter – Tod eines Zynikers",
+   "a": "Oliver Bukowski",
+   "w": true,
+   "u": "https://www.hoerspielundfeature.de/snaps-schwenkfutter-100.html",
+   "g": "bukowski",
+   "o": true,
+   "ou": "https://www.hoerspielundfeature.de/snaps-schwenkfutter-100.html"
+  },
+  {
+   "d": "2026-12-25",
+   "t": "14:00",
+   "s": "ORF Ö1",
+   "p": "Hörspiel",
+   "ti": "Die Vermessung der Welt (Teil 1 von 3)",
+   "a": "Daniel Kehlmann",
+   "w": false,
+   "u": "https://oe1.orf.at/programm/20261225/854678/Die-Vermessung-der-Welt-von-Daniel-Kehlmann-Teil-1",
+   "o": false,
+   "g": "vermessung"
+  },
+  {
+   "d": "2026-12-26",
+   "t": "14:00",
+   "s": "ORF Ö1",
+   "p": "Hörspiel",
+   "ti": "Die Vermessung der Welt (Teil 2 von 3)",
+   "a": "Daniel Kehlmann",
+   "w": false,
+   "u": "https://oe1.orf.at/programm/20261226/854679/Die-Vermessung-der-Welt-von-Daniel-Kehlmann-Teil-2",
+   "o": false,
+   "g": "vermessung"
+  },
+  {
+   "d": "2026-12-27",
+   "t": "14:00",
+   "s": "ORF Ö1",
+   "p": "Hörspiel",
+   "ti": "Die Vermessung der Welt (Teil 3 von 3)",
+   "a": "Daniel Kehlmann",
+   "w": false,
+   "u": "https://oe1.orf.at/programm/20261227/854680/Die-Vermessung-der-Welt-von-Daniel-Kehlmann-Teil-3",
+   "o": false,
+   "g": "vermessung"
+  },
+  {
+   "d": "",
+   "zeit": "Weihnachten 2026",
+   "s": "WDR 3",
+   "p": "Hörspiel",
+   "ti": "TYLL",
+   "a": "Daniel Kehlmann",
+   "w": true,
+   "u": ""
+  }
+ ],
+ "online": [],
+ "kaesten": [
+  {
+   "id": "bukowski",
+   "ti": "Krimi-Hörspiele von Oliver Bukowski",
+   "a": "Deutschlandfunk Kultur",
+   "sub": "Krimi-Hörspiel · Wiederholungen im Oktober 2026 · Regie: Alexander Schuhmacher"
+  },
+  {
+   "id": "wtmo",
+   "ti": "When the music's over",
+   "a": "Myra Çakan",
+   "sub": "Cyberpunk-Hörspiel in 2 Teilen · SWR 2006 · Regie: Alexander Schuhmacher",
+   "werk": true
+  },
+  {
+   "id": "vermessung",
+   "ti": "Die Vermessung der Welt",
+   "a": "Daniel Kehlmann",
+   "sub": "Hörspiel in 3 Teilen · Ö1 Weihnachten 2026 (Produktion NDR 2007) · Bearbeitung und Regie: Alexander Schuhmacher",
+   "werk": true
+  },
+  {
+   "ti": "DIE RUSSEN",
+   "a": "Julia Solovieva",
+   "sub": "Russinnen und Russen in Deutschland seit Kriegsbeginn · Regie: Alexander Schuhmacher · NDR 2026",
+   "gruppen": [
+    {
+     "label": "Podcast · NDR Feature Box · 4 Folgen à ca. 24 Min.",
+     "items": [
+      {
+       "t": "Folge 1/4",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:6d581d7555df0c29/"
+      },
+      {
+       "t": "Folge 2/4",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:53135761d9f299bc/"
+      },
+      {
+       "t": "Folge 3/4",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:e7002729b0c44f94/"
+      },
+      {
+       "t": "Folge 4/4",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:a4dc452906844340/"
+      }
+     ]
+    }
+   ],
+   "werk": true
+  }
+ ]
+}
