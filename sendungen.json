@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-23",
+ "stand": "2026-10-27",
  "termine": [
   {
    "d": "2026-09-20",
@@ -37,7 +37,8 @@
    "w": true,
    "u": "https://www.hoerspielundfeature.de/krimi-hoerspiel-primetime-verdeckte-ermittlung-in-der-sendeanstalt-100.html",
    "o": true,
-   "g": "bukowski"
+   "g": "bukowski",
+   "pid": "693"
   },
   {
    "d": "2026-10-12",
@@ -49,7 +50,8 @@
    "w": true,
    "u": "https://www.hoerspielundfeature.de/snaps-mord-in-der-kommune-100.html",
    "o": true,
-   "g": "bukowski"
+   "g": "bukowski",
+   "pid": "808"
   },
   {
    "d": "2026-10-19",
@@ -62,7 +64,8 @@
    "u": "https://www.hoerspielundfeature.de/snaps-schwenkfutter-100.html",
    "g": "bukowski",
    "o": true,
-   "ou": "https://www.hoerspielundfeature.de/snaps-schwenkfutter-100.html"
+   "ou": "https://www.hoerspielundfeature.de/snaps-schwenkfutter-100.html",
+   "pid": "2323"
   },
   {
    "d": "2026-12-25",
@@ -108,7 +111,20 @@
    "ti": "TYLL",
    "a": "Daniel Kehlmann",
    "w": true,
-   "u": ""
+   "u": "",
+   "pid": "2471"
+  },
+  {
+   "d": "2027-02-07",
+   "t": "14:04",
+   "s": "hr2-kultur",
+   "p": "Hörspiel",
+   "ti": "Picknick im Dunkeln",
+   "a": "Markus Orths",
+   "w": true,
+   "u": "",
+   "o": false,
+   "pid": "2709"
   }
  ],
  "online": [],
@@ -124,14 +140,16 @@
    "ti": "When the music's over",
    "a": "Myra Çakan",
    "sub": "Cyberpunk-Hörspiel in 2 Teilen · SWR 2006 · Regie: Alexander Schuhmacher",
-   "werk": true
+   "werk": true,
+   "pid": "9047"
   },
   {
    "id": "vermessung",
    "ti": "Die Vermessung der Welt",
    "a": "Daniel Kehlmann",
    "sub": "Hörspiel in 3 Teilen · Ö1 Weihnachten 2026 (Produktion NDR 2007) · Bearbeitung und Regie: Alexander Schuhmacher",
-   "werk": true
+   "werk": true,
+   "pid": "414"
   },
   {
    "ti": "DIE RUSSEN",
@@ -160,7 +178,8 @@
      ]
     }
    ],
-   "werk": true
+   "werk": true,
+   "pid": "9005"
   }
  ]
 }
