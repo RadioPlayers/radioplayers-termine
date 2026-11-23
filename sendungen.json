@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-10",
+ "stand": "2026-11-23",
  "termine": [
   {
    "d": "2026-09-20",
@@ -152,6 +152,60 @@
  "online": [],
  "kaesten": [
   {
+   "id": "vermessung",
+   "ti": "Die Vermessung der Welt",
+   "a": "Daniel Kehlmann",
+   "sub": "Hörspiel in 3 Teilen · Ö1 Weihnachten 2026 (Produktion NDR 2007) · Bearbeitung und Regie: Alexander Schuhmacher",
+   "werk": true,
+   "pid": "414"
+  },
+  {
+   "ti": "TYLL",
+   "a": "Daniel Kehlmann",
+   "sub": "Hörspiel in 8 Teilen · WDR 2018 · Bearbeitung und Regie: Alexander Schuhmacher",
+   "gruppen": [
+    {
+     "label": "ARD Sounds · Große Geschichten – ARD Literatur-Hörspiele · 8 Teile à ca. 30 Min.",
+     "items": [
+      {
+       "t": "Teil 1/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:f6c2fd2428bcefcf/"
+      },
+      {
+       "t": "Teil 2/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:a5febb7ef5e317b0/"
+      },
+      {
+       "t": "Teil 3/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:c2fb944850fae578/"
+      },
+      {
+       "t": "Teil 4/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:ee22310e62497344/"
+      },
+      {
+       "t": "Teil 5/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:53a5c197b88d5100/"
+      },
+      {
+       "t": "Teil 6/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:191df6fe54073e50/"
+      },
+      {
+       "t": "Teil 7/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:5cecf5d8cea04bbb/"
+      },
+      {
+       "t": "Teil 8/8",
+       "u": "https://www.ardsounds.de/episode/urn:ard:episode:2109008dc2e35ead/"
+      }
+     ]
+    }
+   ],
+   "werk": true,
+   "pid": "2471"
+  },
+  {
    "id": "bukowski",
    "ti": "Krimi-Hörspiele von Oliver Bukowski",
    "a": "Deutschlandfunk Kultur",
@@ -164,14 +218,6 @@
    "sub": "Cyberpunk-Hörspiel in 2 Teilen · SWR 2006 · Regie: Alexander Schuhmacher",
    "werk": true,
    "pid": "9047"
-  },
-  {
-   "id": "vermessung",
-   "ti": "Die Vermessung der Welt",
-   "a": "Daniel Kehlmann",
-   "sub": "Hörspiel in 3 Teilen · Ö1 Weihnachten 2026 (Produktion NDR 2007) · Bearbeitung und Regie: Alexander Schuhmacher",
-   "werk": true,
-   "pid": "414"
   },
   {
    "ti": "Die Russen",
